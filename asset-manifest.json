@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/starGame/static/css/main.9f8c9850.chunk.css",
-    "main.js": "/starGame/static/js/main.0b1d44a9.chunk.js",
-    "main.js.map": "/starGame/static/js/main.0b1d44a9.chunk.js.map",
-    "runtime-main.js": "/starGame/static/js/runtime-main.664028d4.js",
-    "runtime-main.js.map": "/starGame/static/js/runtime-main.664028d4.js.map",
-    "static/js/2.dca17c79.chunk.js": "/starGame/static/js/2.dca17c79.chunk.js",
-    "static/js/2.dca17c79.chunk.js.map": "/starGame/static/js/2.dca17c79.chunk.js.map",
-    "index.html": "/starGame/index.html",
-    "precache-manifest.5332d7e6448417562b760617de0352f2.js": "/starGame/precache-manifest.5332d7e6448417562b760617de0352f2.js",
-    "service-worker.js": "/starGame/service-worker.js",
-    "static/css/main.9f8c9850.chunk.css.map": "/starGame/static/css/main.9f8c9850.chunk.css.map",
-    "static/js/2.dca17c79.chunk.js.LICENSE.txt": "/starGame/static/js/2.dca17c79.chunk.js.LICENSE.txt"
+    "main.css": "/github_profiles_card/static/css/main.9f8c9850.chunk.css",
+    "main.js": "/github_profiles_card/static/js/main.6573580f.chunk.js",
+    "main.js.map": "/github_profiles_card/static/js/main.6573580f.chunk.js.map",
+    "runtime-main.js": "/github_profiles_card/static/js/runtime-main.4646dc34.js",
+    "runtime-main.js.map": "/github_profiles_card/static/js/runtime-main.4646dc34.js.map",
+    "static/js/2.dca17c79.chunk.js": "/github_profiles_card/static/js/2.dca17c79.chunk.js",
+    "static/js/2.dca17c79.chunk.js.map": "/github_profiles_card/static/js/2.dca17c79.chunk.js.map",
+    "index.html": "/github_profiles_card/index.html",
+    "precache-manifest.ff7932c7eeac7c96dab6a99e863dd348.js": "/github_profiles_card/precache-manifest.ff7932c7eeac7c96dab6a99e863dd348.js",
+    "service-worker.js": "/github_profiles_card/service-worker.js",
+    "static/css/main.9f8c9850.chunk.css.map": "/github_profiles_card/static/css/main.9f8c9850.chunk.css.map",
+    "static/js/2.dca17c79.chunk.js.LICENSE.txt": "/github_profiles_card/static/js/2.dca17c79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.664028d4.js",
+    "static/js/runtime-main.4646dc34.js",
     "static/js/2.dca17c79.chunk.js",
     "static/css/main.9f8c9850.chunk.css",
-    "static/js/main.0b1d44a9.chunk.js"
+    "static/js/main.6573580f.chunk.js"
   ]
 }
